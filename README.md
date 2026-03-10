@@ -1,6 +1,6 @@
 # Weak Password Reset Token leading to Account Takeover
 
-This repository contains a deliberately vulnerable web application that demonstrates a real‑world **account takeover** flaw caused by an insecure password reset token implementation. The lab is based on a finding originally discovered and published by security researcher **[Ashwin](https://www.linkedin.com/in/aswin-thambi-panikulangara/)** on [SystemWeakness](https://medium.com/system-weakness/account-takeover-via-weak-password-reset-token-validation-91df56296f07). You can use this project to understand the vulnerability, practice the exploitation steps, and then explore the production‑grade fix.
+This repository contains a deliberately vulnerable web application that demonstrates a real‑world **account takeover** flaw caused by an insecure password reset token implementation. The lab is based on a finding originally discovered and published by security researcher **[Aswin](https://www.linkedin.com/in/aswin-thambi-panikulangara/)** on [SystemWeakness](https://medium.com/system-weakness/account-takeover-via-weak-password-reset-token-validation-91df56296f07). You can use this project to understand the vulnerability, practice the exploitation steps, and then explore the production‑grade fix.
 
 📺 **Watch the full video walkthrough**: [YouTube Link](https://youtu.be/L27hVxCj4kI)  
 📝 **Read the detailed article**: [Medium Blog Link](https://medium.com/@pauldipesh29/weak-password-reset-token-leading-to-account-takeover-1a162d651acf)  
