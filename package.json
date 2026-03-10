@@ -1,0 +1,18 @@
+{
+  "name": "account-takeover-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-vulnerable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
